@@ -4,6 +4,17 @@ Contains verbal paradigms for Tlatepuzco Chinantec (Oto-Manguean)
 ## Data
 Source: [Surrey Morphology Group](https://oto-manguean.surrey.ac.uk/Search/CPA)
 
+Cite:
+> @incollection{cpa2015, 
+>     title={Oto-manguean inflectional class database: {T}latepuzco {C}hinantec}, 
+>     author={Feist, Timothy and Palancar, Enrique L.}, 
+>     editor  = {Feist, Timothy and Palancar, Enrique L.},
+>     year={2015}, 
+>     publisher={University of Surrey},
+>     url={http://dx.doi.org/10.15126/SMG.28/1.04}
+> }
+
+
 ## Annotators
 Antonis Anastasopoulos
 
